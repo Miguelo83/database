@@ -1,0 +1,34 @@
+que es una apires
+
+
+por que uilizamos apires , cuales son las diferencias 
+
+cuadros comparativos 
+
+su implementación 
+
+casos de usos diagrama de paquetes  como funciona el cliente 
+login
+
+
+ 
+diagrama de paquetes 
+
+por qué typerm y no sprin box enterprice edition  
+
+
+creación de las tablas 
+facil fpara los esprin 
+
+conexiones de endpoint 
+
+pos man 
+
+los estados  
+
+enpoin 
+
+ introduccion conclusion desarrollo bibliografía 
+por que estamos usando jwtoken 
+
+git hab copile 3 sucesor de los endpoint 
